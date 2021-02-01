@@ -1,0 +1,9 @@
+-Definir variables
+-Inplementar librerias necesarias 
+-Realizar un contador de 8 bits utilizando el puerto b 
+-Debe de aumentar y disminuir 
+-Antirebote con interrupciones
+- Configurar Interrupcion adc
+-Multiplexar los 7 segmentos por medio de interrupciones en el temporizador
+-generar alarma, cuando el valor analogico sobre pase al de referencia tambien utilizando interrucciones
+
